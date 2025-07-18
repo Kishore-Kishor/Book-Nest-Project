@@ -18,3 +18,8 @@ Frontend: HTML, CSS, JavaScript / React (edit based on your stack)
 Backend: Node.js / Django / Flask (edit based on your stack)
 
 Database: MongoDB
+# Installation
+1.install dependcies
+npm install
+2.Starting Server
+npm start
