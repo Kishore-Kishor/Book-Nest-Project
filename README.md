@@ -24,3 +24,10 @@ Built using React, the app offers a smooth and interactive experience on all dev
 
 2.Starting Server
 - npm start
+
+# Testing
+Run test using : 
+- npm test
+# License
+Drive : 
+
