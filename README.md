@@ -6,20 +6,20 @@ Built using React, the app offers a smooth and interactive experience on all dev
 
 # 𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚜
 
-User Registration and Authentication: Allow users to register accounts securely, log in 
-Book Listings: Display a comprehensive list of available books
-Book Selection:select their preferred books
-Purchase Process: Allow users to add books to their cart
-Order Confirmation: Provide users with a confirmation page or notification containing details of their order, including book information, total price, and order ID.
+- User Registration and Authentication: Allow users to register accounts securely, log in 
+- Book Listings: Display a comprehensive list of available books
+- Book Selection:select their preferred books
+- Purchase Process: Allow users to add books to their cart
+- Order Confirmation: Provide users with a confirmation page or notification containing details of their order, including book information, total price, and order ID.
 
 # Languages
 - Frontend: HTML, CSS, JavaScript / React (edit based on your stack)
 
-Backend: Node.js / Django / Flask (edit based on your stack)
+- Backend: Node.js / Django / Flask (edit based on your stack)
 
-Database: MongoDB
+- Database: MongoDB
 # Installation
 1.install dependcies
-npm install
+''' npm install
 2.Starting Server
-npm start
+''' npm start
