@@ -13,7 +13,7 @@ Purchase Process: Allow users to add books to their cart
 Order Confirmation: Provide users with a confirmation page or notification containing details of their order, including book information, total price, and order ID.
 
 # Languages
-Frontend: HTML, CSS, JavaScript / React (edit based on your stack)
+- Frontend: HTML, CSS, JavaScript / React (edit based on your stack)
 
 Backend: Node.js / Django / Flask (edit based on your stack)
 
