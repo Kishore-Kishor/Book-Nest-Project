@@ -20,6 +20,6 @@ Built using React, the app offers a smooth and interactive experience on all dev
 - Database: MongoDB
 # Installation
 1.install dependcies
-''' npm install
+    npm install
 2.Starting Server
-''' npm start
+    npm start
